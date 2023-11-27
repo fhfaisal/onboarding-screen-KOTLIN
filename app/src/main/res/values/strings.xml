@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash1Title">Consult Specialist Doctors Securely And Privately</string>
+    <string name="splash1Subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada vulputate facilisi eget neque, nunc suspendisse massa augue. Congue sit augue volutpat vel. Dictum dignissim ac pharetra.</string>
+    <string name="splashButtonNext">Next</string>
+    <string name="splashButtonFinished">Get Started</string>
+
+
+</resources>
